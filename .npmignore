@@ -1,0 +1,7 @@
+src
+test
+example
+examples
+node_modules
+*.js.map
+webpack.config.js
